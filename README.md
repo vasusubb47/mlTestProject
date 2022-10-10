@@ -9,19 +9,19 @@
 <h1 align="center">MlTestProject</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{Vasu7777py}}/mltestproject?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Vasu7777py/mltestproject?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{Vasu7777py}}/mltestproject?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/Vasu7777py/mltestproject?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{Vasu7777py}}/mltestproject?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Vasu7777py/mltestproject?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/{{Vasu7777py}}/mltestproject?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/Vasu7777py/mltestproject?color=56BEB8">
 
-  <img alt="Github issues" src="https://img.shields.io/github/issues/{{Vasu7777py}}/mltestproject?color=56BEB8" />
+  <img alt="Github issues" src="https://img.shields.io/github/issues/Vasu7777py/mltestproject?color=56BEB8" />
 
-  <img alt="Github forks" src="https://img.shields.io/github/forks/{{Vasu7777py}}/mltestproject?color=56BEB8" />
+  <img alt="Github forks" src="https://img.shields.io/github/forks/Vasu7777py/mltestproject?color=56BEB8" />
 
-  <img alt="Github stars" src="https://img.shields.io/github/stars/{{Vasu7777py}}/mltestproject?color=56BEB8" />
+  <img alt="Github stars" src="https://img.shields.io/github/stars/Vasu7777py/mltestproject?color=56BEB8" />
 </p>
 
 Status
@@ -39,7 +39,7 @@ Status
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{Vasu7777py}}" target="_blank">Author</a>
+  <a href="https://github.com/Vasu7777py" target="_blank">Author</a>
 </p>
 
 <br>
@@ -66,7 +66,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{Vasu7777py}}/mltestproject
+$ git clone https://github.com/Vasu7777py/mltestproject
 
 # Access
 $ cd mltestproject
@@ -85,7 +85,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{{Vasu7777py}}" target="_blank">{{vasu subbannavar}}</a>
+Made with :heart: by <a href="https://github.com/Vasu7777py" target="_blank">{{vasu subbannavar}}</a>
 
 &#xa0;
 
